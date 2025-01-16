@@ -198,8 +198,7 @@ DIRECT_GEN_URL = os.environ.get("DIRECT_GEN_URL", "https://web-6elnbzrv74ye.up-d
 DIRECT_GEN = bool(DIRECT_GEN_DB and DIRECT_GEN_URL)
 
 POST_MODE= bool(environ.get('POST_MODE', True))
-POST_SHORT_API = environ.get('POST_SHORT_API', '39f2e5a3a4145b5d801bd32cb3016a49cba50fbb')
-POST_SHORT_URL = environ.get('POST_SHORT_URL', 'Modijiurl.com')
+POST_SHORT_API = environ.get('POST_SHORT_API', '39f2e5a3a4145b5d801bd32cb3016a('POST_SHORT_URL', 'Modijiurl.com')
 
 HOW_TO_POST_SHORT = environ.get('HOW_TO_POST_SHORT', 'https://t.me/How_To_Get_Movie')
 # Don't Remove Credit @VJ_Botz
