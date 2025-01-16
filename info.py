@@ -6,6 +6,7 @@
 import re
 from os import environ
 from Script import script 
+import os
 
 id_pattern = re.compile(r'^.\d+$')
 
